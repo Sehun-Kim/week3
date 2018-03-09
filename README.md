@@ -1,24 +1,6 @@
-# README
+# RandomGame
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails RandomGame
+성공회대학교 멋쟁이사자처럼 5기 과제 예시
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+heroku link : https://randomsechun.herokuapp.com/
